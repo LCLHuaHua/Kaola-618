@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kaola_618.iml" filepath="$PROJECT_DIR$/.idea/kaola_618.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_canal/kaola_canal.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_canal/kaola_canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_common/kaola_common.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_common/kaola_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_common_db/kaola_common_db.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_common_db/kaola_common_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_eureka/kaola_eureka.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_eureka/kaola_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_gateway/kaola_gateway.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_gateway/kaola_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_gateway/kaola_gateway_system/kaola_gateway_system.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_gateway/kaola_gateway_system/kaola_gateway_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_gateway/kaola_geteway_web/kaola_geteway_web.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_gateway/kaola_geteway_web/kaola_geteway_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_parent.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_api.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_business/kaola_service_business.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_business/kaola_service_business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_file/kaola_service_file.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_file/kaola_service_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_goods/kaola_service_goods.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_goods/kaola_service_goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_goods_api/kaola_service_goods_api.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_goods_api/kaola_service_goods_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_order/kaola_service_order.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_order/kaola_service_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service_order_api/kaola_service_order_api.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service_order_api/kaola_service_order_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_page/kaola_service_page.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_page/kaola_service_page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_search_api/kaola_service_search_api.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_search_api/kaola_service_search_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_searcher/kaola_service_searcher.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_searcher/kaola_service_searcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_system/kaola_service_system.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_system/kaola_service_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_system_api/kaola_service_system_api.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_system_api/kaola_service_system_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_user/kaola_service_user.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service/kaola_service_user/kaola_service_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_user_api/kaola_service_user_api.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_service_api/kaola_service_user_api/kaola_service_user_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_user_auth/kaola_user_auth.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_user_auth/kaola_user_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaola_parent/kaola_web/kaola_web.iml" filepath="$PROJECT_DIR$/kaola_parent/kaola_web/kaola_web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="054c5c6b-bd61-4f03-8ca2-a834ef71b1c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../Maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\Maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1vvp3vQp0iGEutf2avvJiBUEibW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kaola_333" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24597701" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\k-workspace\kaola_618\kaola_web\src\main\resources\public" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.deyuan.entity" />
+      <recent name="com.deyuan" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\kaola_618\kaola_parent\kaola_common\src\main\java\com\deyuan\entity" />
+      <recent name="C:\kaola_618\kaola_parent\kaola_service\kaola_service_order\src\main\java\com\deyuan" />
+      <recent name="C:\kaola_618\kaola_parent\kaola_service_order_api\src\main\java\com\deyuan\order\pojo" />
+      <recent name="C:\kaola_618\kaola_parent\kaola_web\src\main\resources" />
+      <recent name="C:\kaola_618\kaola_parent\kaola_gateway\kaola_geteway_web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderWebApplicaiton">
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kaola_user_auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deyuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_service_business" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.BusinessApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_canal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.CanalApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kaola_eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deyuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastDFSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_service_file" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.FastDFSApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_gateway_system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.GatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_service_goods" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.GoodsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KaolaServiceBusinessApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_service_business" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.BusinessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kaola_service_order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deyuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderWebApplicaiton" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kaola_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deyuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.OrderWebApplicaiton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_service_page" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.PageApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_service_searcher" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.SearchApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_service_system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.system.SystemApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaola_web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.WebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebGateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kaola_geteway_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deyuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deyuan.WebGateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.KaolaServiceBusinessApplication" />
+      <item itemvalue="Spring Boot.BusinessApplication" />
+      <item itemvalue="Spring Boot.CanalApplication" />
+      <item itemvalue="Spring Boot.FastDFSApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.GoodsApplication" />
+      <item itemvalue="Spring Boot.PageApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.SystemApplication" />
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.WebGateWayApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.OrderWebApplicaiton" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderWebApplicaiton" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Spring Boot.WebGateWayApplication" />
+        <item itemvalue="Spring Boot.AuthApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="054c5c6b-bd61-4f03-8ca2-a834ef71b1c4" name="Default Changelist" comment="" />
+      <created>1627452223423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627452223423</updated>
+      <workItem from="1627452225433" duration="1142000" />
+      <workItem from="1627453405806" duration="4166000" />
+      <workItem from="1627458018349" duration="89000" />
+      <workItem from="1627522774113" duration="5875000" />
+      <workItem from="1627538456141" duration="179000" />
+      <workItem from="1627538761882" duration="4754000" />
+      <workItem from="1627610736344" duration="7762000" />
+      <workItem from="1627625238519" duration="1635000" />
+      <workItem from="1627627300334" duration="6569000" />
+      <workItem from="1627797554532" duration="202000" />
+      <workItem from="1627797777453" duration="3534000" />
+      <workItem from="1627801354168" duration="3165000" />
+      <workItem from="1627867611903" duration="1538000" />
+      <workItem from="1627870131877" duration="1009000" />
+      <workItem from="1627872019964" duration="3866000" />
+      <workItem from="1627884263781" duration="12292000" />
+      <workItem from="1627954827493" duration="6900000" />
+      <workItem from="1627970451049" duration="1209000" />
+      <workItem from="1628086573853" duration="114000" />
+      <workItem from="1628429148638" duration="3981000" />
+      <workItem from="1628471119710" duration="611000" />
+      <workItem from="1628490665976" duration="6397000" />
+      <workItem from="1628499779554" duration="2222000" />
+      <workItem from="1628577879191" duration="91000" />
+      <workItem from="1628578353873" duration="3286000" />
+      <workItem from="1628581723025" duration="7874000" />
+      <workItem from="1628598748197" duration="236000" />
+      <workItem from="1628599004765" duration="200000" />
+      <workItem from="1628645715065" duration="4227000" />
+      <workItem from="1628663720686" duration="9753000" />
+      <workItem from="1628686349213" duration="624000" />
+      <workItem from="1628732114181" duration="4321000" />
+      <workItem from="1628736793149" duration="3884000" />
+      <workItem from="1628748086156" duration="664000" />
+      <workItem from="1628756532030" duration="2944000" />
+      <workItem from="1628819348728" duration="6171000" />
+      <workItem from="1628834481320" duration="4546000" />
+      <workItem from="1629113988346" duration="565000" />
+      <workItem from="1629114710124" duration="24348000" />
+      <workItem from="1629249404171" duration="27309000" />
+      <workItem from="1629430717236" duration="13286000" />
+      <workItem from="1629451493489" duration="857000" />
+      <workItem from="1629690428367" duration="3693000" />
+      <workItem from="1629862929213" duration="2228000" />
+      <workItem from="1630032903163" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="105" key="#Project_Structure" timestamp="1629342764054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="378" y="105" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1629342764054" />
+    <state x="603" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629358075507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629358075507" />
+    <state x="872" y="354" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629254955692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="872" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1629254955692" />
+    <state x="1360" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1629690852848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1360" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1629690852848" />
+    <state x="878" y="267" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1629358068452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="878" y="267" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629358068452" />
+    <state x="719" y="204" key="FileChooserDialogImpl" timestamp="1630032944055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="204" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1630032944055" />
+    <state width="1375" height="26" key="GridCell.Tab.0.bottom" timestamp="1629451397037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="26" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629451397037" />
+    <state width="1375" height="26" key="GridCell.Tab.0.center" timestamp="1629451397037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="26" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629451397037" />
+    <state width="1375" height="26" key="GridCell.Tab.0.left" timestamp="1629451397037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="26" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629451397037" />
+    <state width="1375" height="26" key="GridCell.Tab.0.right" timestamp="1629451397037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="26" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629451397037" />
+    <state width="1375" height="26" key="GridCell.Tab.1.bottom" timestamp="1629451397037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="26" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629451397037" />
+    <state width="1375" height="26" key="GridCell.Tab.1.center" timestamp="1629451397037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="26" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629451397037" />
+    <state width="1375" height="26" key="GridCell.Tab.1.left" timestamp="1629451397037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="26" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629451397037" />
+    <state width="1375" height="26" key="GridCell.Tab.1.right" timestamp="1629451397037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="26" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629451397037" />
+    <state x="505" y="214" key="Maven.ArtifactSearchDialog" timestamp="1629431392104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="214" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629431392104" />
+    <state x="529" y="97" key="SettingsEditor" timestamp="1629698231686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1629698231686" />
+    <state x="555" y="366" width="1251" height="656" key="new project wizard" timestamp="1629376746132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="366" width="1251" height="656" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1629376746132" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kaola_parent/kaola_service_file/src/main/java/com/deyuan/controller/FileController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kaola_parent/kaola_service_file/src/main/java/com/deyuan/controller/FileController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
